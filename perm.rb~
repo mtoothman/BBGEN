@@ -1,4 +1,0 @@
-perm = ('A'..'Z').to_a
-all_perm = perm.repeated_permutation(5) # yields Enumerator
-
-assert all_perm.next = ['A', 'A', 'A', 'A', 'A']
